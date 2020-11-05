@@ -1,0 +1,65 @@
+.navbar-brand img {
+  height: 50px;
+  width: 150px;
+}
+.color {
+  background-color: rgb(20, 228, 131);
+  border-radius: 10px;
+}
+
+.btn-btn {
+  border: 1px solid green;
+  border-radius: 10px;
+  background-color: rgb(20, 228, 131);
+  height: 50px;
+}
+.paragraph {
+  color: red;
+}
+.green-heiglight {
+  color: rgb(90, 161, 90);
+}
+.feature-img {
+  height: 200px;
+  width: 170px;
+  padding: 15px;
+}
+
+.feature-img img {
+  height: 100px;
+  width: 100px;
+}
+.feature-img:hover {
+  box-shadow: 1px 1px 5px rgb(194, 207, 202);
+}
+.man-container img {
+  height: 200px;
+  width: 200px;
+  margin-left: 100px;
+}
+.people-img img {
+  height: 25px;
+  width: 20px;
+}
+ul {
+  list-style: none;
+}
+footer {
+  background-color: black;
+  margin: auto;
+  color: white;
+  height: 400px;
+  padding: 50px;
+}
+
+section {
+  margin: 100px 0;
+}
+
+header {
+  background-color: rgb(202, 221, 211);
+}
+
+.footer-text {
+  padding: 50px;
+}
